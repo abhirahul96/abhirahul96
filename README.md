@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A voracious Backend developer from India. Always keen to learn new Technologies.</h3>
-<p align="centre"><img src="https://i.gifer.com/DXKg.gif" alt="abhirahul96"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirahul96&label=Profile%20views&color=0e75b6&style=flat" alt="abhirahul96" /> </p>
 
 - 🌱 I’m currently learning **React, Angular**
